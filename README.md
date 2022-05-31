@@ -3,8 +3,15 @@ Kafka Producer+Consumer<br />
 <br />
 Windows <br />
 <br />
-Kafka Command Start<br />
-.\bin\windows\kafka-server-start.bat .\config\server.properties<br />
+Kafka Command Start
+```
+ .\bin\windows\kafka-server-start.bat .\config\server.properties
+ ```
+
 <br />
-Zookeeper Command Start<br />
-.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties<br />
+<br />
+Zookeeper Command Start
+
+```
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+``` 
